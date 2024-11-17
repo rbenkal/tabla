@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tabla-book-2]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>tabla-book-2</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 17 Nov 2024 16:06:02 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 17 Nov 2024 16:06:01 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Taal Teentaal]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tabla-book-2]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>tabla-book-2</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 17 Nov 2024 16:16:06 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 17 Nov 2024 16:16:05 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Taal Teentaal]]></title><description><![CDATA[ 
  <br><br>मात्रा : 16<br>
 ताली : 3 (मात्रा 1, 5, 13 पर)<br>
 खाली : 1 (मात्रा 9 पर)<br>
@@ -845,70 +845,111 @@ S धातिरकिटतक तिरकिट | धा<br><br>धाति
 तिट धातिट धातिट धाधाधा,<br>
 तिट धातिट धातिट धाधाधा,<br>
 तिट धातिट धातिट धाधा | धा]]></description><link>2.-teentaal-compositions\2.f-chakradhaar\chakradhaar-collection.html</link><guid isPermaLink="false">2. Teentaal Compositions/2.f Chakradhaar/Chakradhaar Collection.md</guid><pubDate>Sun, 17 Nov 2024 15:34:05 GMT</pubDate></item><item><title><![CDATA[ReadMe]]></title><description><![CDATA[ 
- <br><br>The tabla, a prominent percussion<br>
-instrument in Hindustani classical music,<br>
-has a rich and complex history that<br>
-intertwines with the cultural and musical<br>
-evolution of India. Its origins are<br>
-somewhat obscure, with various theories<br>
-regarding its development and ancestry.<br>
-Most scholars agree that the tabla likely<br>
-evolved between the late 17th and early<br>
-18th centuries, primarily in North India.<br><br>Cultural Influences: The tabla is<br>
-believed to have emerged from earlier<br>
-percussion instruments like the<br>
-pakhawaj, which is a larger,<br>
-barrel-shaped drum used in classical music.<br>
-According to one popular legend,<br>
-the tabla was created by the renowned<br>
-musician Amir Khusro, who is said to have<br>
-cut a pakhawaj in half, leading to the<br>
-formation of this new instrument<br>Musical Context: The tabla became<br>
-integral to the khyal genre of vocal<br>
-music that flourished during the Mughal<br>
-period, characterized by its fusion of<br>
-Persian and Indian musical traditions.<br>
-This association with khyal significantly<br>
-elevated the tabla's status as a primary<br>
-accompaniment instrument in Hindustani<br>
-classical music.<br>Gharana System: By the 1700s, distinct<br>
-schools or gharanas began to form around<br>
-tabla playing styles. These gharanas—such<br>
-as Delhi, Lucknow, and Ajrada—contributed<br>
-to a diverse repertoire and playing<br>
-techniques that continue to influence tabla<br>
-performance today.<br><br>The tabla consists of two hand-played<br>
-drums: the dayan (the treble drum) made<br>
-typically from wood, and the bayan<br>
-(the bass drum) made from metal or clay.<br>
-Each drum is covered with a membrane made<br>
-from animal skin, which is secured with<br>
-leather straps. The unique construction<br>
-allows for a wide range of sounds and tonal<br>
-qualities. Playing the tabla involves<br>
-intricate finger techniques and rhythmic<br>
-patterns known as bols, which include<br>
-strokes like na, ta, dha, and tin.<br>
-This complexity enables tabla players to<br>
-create elaborate rhythms that complement<br>
-both vocalists and instrumentalists in<br>
-various musical settings.<br><br>The tabla serves not only as a rhythmic<br>
-foundation in classical performances but<br>
-also adapts well to various genres,<br>
-including folk, devotional music, and<br>
-contemporary fusion. Its versatility allows<br>
-it to accompany traditional dance forms<br>
-such as Kathak and Bharatanatyam,<br>
-enhancing performances with its dynamic<br>
-rhythms. Notable tabla players like<br>
-Ustad Zakir Hussain have played pivotal<br>
-roles in popularizing the instrument<br>
-globally, showcasing its adaptability<br>
-through collaborations across different<br>
-musical genres. <br>Tabla stands as a vital element of Indian<br>
-musical heritage, embodying centuries of<br>
-tradition while continuing to evolve within<br>
-modern contexts. Its rich history reflects<br>
-the broader narrative of Indian classical<br>
-music's development and cultural exchange<br>
-over time.]]></description><link>readme.html</link><guid isPermaLink="false">ReadMe.md</guid><pubDate>Sun, 17 Nov 2024 16:02:46 GMT</pubDate></item></channel></rss>
+ <br><br>The tabla, a prominent<br>
+percussion instrument in<br>
+Hindustani classical music,<br>
+has a rich and complex<br>
+history that intertwines<br>
+with the cultural and<br>
+musical evolution of India.<br>
+Its origins are somewhat<br>
+obscure, with various<br>
+theories regarding its<br>
+development and ancestry.<br>
+Most scholars agree that<br>
+the tabla likely evolved<br>
+between the late 17th and<br>
+early 18th centuries,<br>
+primarily in North India.<br><br>Cultural Influences: <br>The tabla is believed to<br>
+have emerged from earlier<br>
+percussion instruments<br>
+like the pakhawaj,<br>
+which is a larger,<br>
+barrel-shaped drum used<br>
+in classical music. <br>According to one popular<br>
+legend, the tabla was<br>
+created by the renowned<br>
+musician Amir Khusro,<br>
+who is said to have cut<br>
+a pakhawaj in half,<br>
+leading to the formation<br>
+of this new instrument<br>Musical Context: <br>The tabla became<br>
+integral to the<br>
+khyal genre of vocal<br>
+music that flourished<br>
+during the Mughal period,<br>
+characterized by its<br>
+fusion of Persian and<br>
+Indian musical traditions. <br>This association with<br>
+khyal significantly<br>
+elevated the tabla's<br>
+status as a primary<br>
+accompaniment instrument<br>
+in Hindustani classical<br>
+music.<br>Gharana System: <br>By the 1700s, distinct<br>
+schools or gharanas<br>
+began to form around<br>
+tabla playing styles.<br>
+These gharanas—such<br>
+as Delhi, Lucknow, and<br>
+Ajrada—contributed to a<br>
+diverse repertoire and<br>
+playing techniques that<br>
+continue to influence<br>
+tabla performance today.<br><br>The tabla consists of<br>
+two hand-played drums:<br>
+the dayan (the treble<br>
+drum) made typically<br>
+from wood, and the bayan<br>
+(the bass drum) made<br>
+from metal or clay. Each<br>
+drum is covered with a<br>
+membrane made from animal<br>
+skin, which is secured<br>
+with leather straps.<br>
+The unique construction<br>
+allows for a wide range<br>
+of sounds and tonal<br>
+qualities. Playing the<br>
+tabla involves intricate<br>
+finger techniques and<br>
+rhythmic patterns known<br>
+as bols, which include<br>
+strokes like na, ta,<br>
+dha, and tin. <br>This complexity enables<br>
+tabla players to create<br>
+elaborate rhythms that<br>
+complement both vocalists<br>
+and instrumentalists in<br>
+various musical settings.<br><br>The tabla serves not only<br>
+as a rhythmic foundation<br>
+in classical performances<br>
+but also adapts well to<br>
+various genres, including<br>
+folk, devotional music,<br>
+and contemporary fusion.<br>
+Its versatility allows<br>
+it to accompany<br>
+traditional dance forms<br>
+such as Kathak and<br>
+Bharatanatyam, enhancing<br>
+performances with its<br>
+dynamic rhythms. Notable<br>
+tabla players like<br>
+Ustad Zakir Hussain have<br>
+played pivotal roles in<br>
+popularizing the instrument<br>
+globally, showcasing its<br>
+adaptability through<br>
+collaborations across<br>
+different musical genres. <br>Tabla stands as a vital<br>
+element of Indian musical<br>
+heritage, embodying<br>
+centuries of tradition<br>
+while continuing to evolve<br>
+within modern contexts.<br>
+Its rich history reflects<br>
+the broader narrative of<br>
+Indian classical music's<br>
+development and cultural<br>
+exchange over time.]]></description><link>readme.html</link><guid isPermaLink="false">ReadMe.md</guid><pubDate>Sun, 17 Nov 2024 16:15:54 GMT</pubDate></item></channel></rss>
