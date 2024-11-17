@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tabla-book-2]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>tabla-book-2</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 17 Nov 2024 15:58:09 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 17 Nov 2024 15:58:08 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Taal Teentaal]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tabla-book-2]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>tabla-book-2</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 17 Nov 2024 16:04:22 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 17 Nov 2024 16:04:21 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Taal Teentaal]]></title><description><![CDATA[ 
  <br><br>मात्रा : 16<br>
 ताली : 3 (मात्रा 1, 5, 13 पर)<br>
 खाली : 1 (मात्रा 9 पर)<br>
@@ -844,8 +844,8 @@ S धातिरकिटतक तिरकिट | धा<br><br>धाति
 धाधा तिट, धाधा तिट,<br>
 तिट धातिट धातिट धाधाधा,<br>
 तिट धातिट धातिट धाधाधा,<br>
-तिट धातिट धातिट धाधा | धा]]></description><link>2.-teentaal-compositions\2.f-chakradhaar\chakradhaar-collection.html</link><guid isPermaLink="false">2. Teentaal Compositions/2.f Chakradhaar/Chakradhaar Collection.md</guid><pubDate>Sun, 17 Nov 2024 15:34:05 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
- <br><img alt="image.png" src="assets\index\image.png"><br><br>The tabla, a prominent percussion<br>
+तिट धातिट धातिट धाधा | धा]]></description><link>2.-teentaal-compositions\2.f-chakradhaar\chakradhaar-collection.html</link><guid isPermaLink="false">2. Teentaal Compositions/2.f Chakradhaar/Chakradhaar Collection.md</guid><pubDate>Sun, 17 Nov 2024 15:34:05 GMT</pubDate></item><item><title><![CDATA[ReadMe]]></title><description><![CDATA[ 
+ <br><br>The tabla, a prominent percussion<br>
 instrument in Hindustani classical music,<br>
 has a rich and complex history that<br>
 intertwines with the cultural and musical<br>
@@ -911,4 +911,4 @@ tradition while continuing to evolve within<br>
 modern contexts. Its rich history reflects<br>
 the broader narrative of Indian classical<br>
 music's development and cultural exchange<br>
-over time.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 17 Nov 2024 15:57:36 GMT</pubDate><enclosure url="assets\index\image.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="assets\index\image.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+over time.]]></description><link>readme.html</link><guid isPermaLink="false">ReadMe.md</guid><pubDate>Sun, 17 Nov 2024 16:02:46 GMT</pubDate></item></channel></rss>
